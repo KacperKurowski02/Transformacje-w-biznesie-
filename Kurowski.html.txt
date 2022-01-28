@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>ROB-TRANS</title>
+<link rel="stylesheet" href="styl.css" type="text/css" />
+</head>
+<body>
+    <div style="max-width: 100000px;margin:0 auto;">
+        <div style="border:0px solid black;height:50px;background:#9090ff;"><P><FONT SIZE=7><span style="color:black"><center>Rob Trans</center></span></FONT></P></div>
+        <div style="border:0px solid black;width:10%;;float:left;background:#ffc0cb;min-height:1000px;">
+            <a></a><br />
+            <a href ="Kurowski.html"style="margin-left:5px"><FONT SIZE=5><center>Strona główna</center></a><br /></FONT>
+            <a href ="Oferta.html"style="margin-left:5px"><FONT SIZE=5><center>Oferta</center></a><br /></FONT>
+            <a href ="Historia.html"style="margin-left:5px"><FONT SIZE=5><center>Historia</center></a><br /></FONT>
+            <a href ="Kontakt.html"style="margin-left:5px"><FONT SIZE=5><center>Kontakt</center></a><br /></FONT>
+        </div>
+        <div style="border:0px solid black;width:30%;;float:left;margin-left:100px;margin-top: 50px;"><FONT SIZE=6>
+           <a> Nasza firma specjalizuje się w transporcie ponad gabarytowym. Jesteśmy liderem na rynku Europejskim.
+            Posiadamy liczną flotę odpowiedniego sprzętu. Nasze doświadczenie sukcesywanie zbieram już od ponad 
+            20 lat. Długość, szerokość oraz wysokość ładunku nie ma dla nas ograniczeń. Serdecznie zapraszamy do wyceny usługi!</a>
+        </div></FONT>
+        
+        
+</body>
+<html>
